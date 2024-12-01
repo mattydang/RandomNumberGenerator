@@ -5,7 +5,7 @@ Simple Random Number Generator Program on JavaScript. Project used to practice J
 
 ### JavaScript
 
-JavaScript was primarily used to randomize integers using .random() and .floor() methods from the Math class. Also used to listen to click events of buttons in HTML file.
+JavaScript was primarily used to randomize integers using .random() and .floor() methods from the Math class. Also used to listen to mouse events of buttons in HTML file.
 
 ### HTML
 
